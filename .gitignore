@@ -26,11 +26,9 @@ wheels/
 venv/
 env/
 ENV/
-.env
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 .DS_Store
@@ -58,3 +56,5 @@ coverage.xml
 owl/camel/types/__pycache__/
 owl/camel/__pycache__/
 owl/camel/utils/__pycache_/
+config.bat
+node_modules
